@@ -1,3 +1,9 @@
-* {
-    box-sizing: border-box;
+* {box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background: url('../pics/background.jpg') no-repeat;
+    background-size: cover;
+    height: 950px;
 }
