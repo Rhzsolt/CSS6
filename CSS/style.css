@@ -17,10 +17,10 @@ header::after{
     content: '';
     clear: both;
     display:table;}
-header{
-background: url('../pics/kaja1.jpg') no-repeat ;
-height: 360px;
-position: relative;
+.float-left{
+    float: right;
+    margin: 20px 20px 20px 20px;
+    
 }
 
 nav{
@@ -119,11 +119,7 @@ nav .has-submenu>a {
     background-color: red;
     color:white;
 }
-.let{
-    float: left;
-    margin-top: 0;
 
-}
 .sorok{
     line-height: 25px;
 }
