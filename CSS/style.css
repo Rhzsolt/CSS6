@@ -18,7 +18,7 @@ header::after{
     clear: both;
     display:table;}
 header{
-background: url('../pics/kaja1.jpg') no-repeat ;
+background: url('../pics/kaja1.jpg') repeat ;
 height: 360px;
 position: relative;
 }
@@ -119,8 +119,8 @@ nav .has-submenu>a {
     background-color: red;
     color:white;
 }
-.let{
-    float: left;
+.left{
+    float: none;
     margin-top: 0;
 
 }
